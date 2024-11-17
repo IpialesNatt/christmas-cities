@@ -16,8 +16,4 @@ Gracias: A Richard, Hatem por su ayuda.
 Autor: Nataly Alexandra Ipiales Barrigas
 El enlace al proyecto se podra encontrar en el siguiente enlace de repositorio:
 
-https://github.com/IpialesNatt/christmas-cities./tree/main
-
-Su read.me es el siguiente: https://github.com/IpialesNatt/christmas-cities./commit/6b50c3cba4a8107baa125f5809ada6d667444638
-
 Se usó la pagina de ATIRA de ejemplo, https://dribbble.com/shots/23450645-ATIRA-Animation
